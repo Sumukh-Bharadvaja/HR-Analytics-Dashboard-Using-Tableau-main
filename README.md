@@ -75,7 +75,11 @@
 
 ![HR Analytics Dashboard](Dashboard.png)
 
-*Interactive dashboard with comprehensive workforce analytics and real-time KPIs*
+## 🔗 Live Dashboard
+
+**[📊 View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/sumukh.bharadvaja.shivaram/viz/HRANALYTICSDASHBOARD_17544477948020/HRDashboard)**
+
+*Click the link above to explore the interactive dashboard with real-time filtering and drill-down capabilities*
 
 ##  Professional Value & Career Impact
 
